@@ -24,7 +24,7 @@ git fetch
 git add .
 
 
-git commit -m "CheckIn First CMS Deployment #2287146"
+git commit -m "CheckIn Files #20250830"
 
 
 git push origin HEAD:users/GatoPlayero/MyCode
